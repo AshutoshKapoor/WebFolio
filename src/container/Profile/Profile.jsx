@@ -55,7 +55,7 @@ const Profile = () => {
           </div>
           <div className="app__profile-btn">
             <button>
-              <a href={resume} download="pranav_frontend.pdf">
+              <a href={resume} download="ashutosh_frontend.pdf">
                 Download CV <BsDownload />
               </a>
             </button>
