@@ -21,7 +21,7 @@ const About = () => {
     {
       url: uiIcon,
       title: "UI/UX",
-      description: "UI/UX Professsional !!",
+      description: "UI/UX Professional !!",
     },
   ];
 

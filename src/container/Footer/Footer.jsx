@@ -29,7 +29,7 @@ const Footer = () => {
             <img src={images.address} alt="Address" />
             <div>
               <p className="bold-text">Address</p>
-              <p className="p-text">Meerut, Uttar Pradesh</p>
+              <p className="p-text">Bengaluru, Karnataka</p>
             </div>
           </div>
         </div>

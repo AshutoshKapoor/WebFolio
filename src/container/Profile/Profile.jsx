@@ -24,7 +24,7 @@ const Profile = () => {
           />
         </div>
         <div className="app__profile-container-content">
-          <p className="app__profile-text">
+          <div className="app__profile-text">
             As a Front-End Developer, I possess a strong skill set in HTML, CSS,
             JavaScript, React, Redux, and SCSS. I excel at designing responsive
             websites that provide a seamless user experience. My expertise lies
@@ -32,8 +32,8 @@ const Profile = () => {
             while using the latest development tools and techniques. I thrive in
             a collaborative environment and enjoy working with cross-functional
             teams to create exceptional web applications.
-          </p>
-          <div className="app__profile-data ">
+          </div>
+          <div className="app__profile-data">
             <p className="app__profile-data-p1">
               <span className="head-text">1+</span>
               <span className="simple-text">

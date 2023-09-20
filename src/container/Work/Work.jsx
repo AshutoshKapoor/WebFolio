@@ -12,8 +12,8 @@ const Work = () => {
   const animateCard = ({ y: 0, opacity: 1 });
 
   const data = [
-    { url: portfolioIcon , title: "My PortFolio Website", link: "https://ashutosh-kapoor-portfolio.netlify.app/", description: "This Project has been done to show case my skills as a developer to the audience." },
-    { url: youTubeIcon, title: "YouTube Clone", link: "https://stupendous-haupia-936c4c.netlify.app/", description: "This Project has been done to have features similar to YouTube where we can have streamless video streaming." },
+    { url: portfolioIcon , title: "My Portfolio Website", link: "https://ashutosh-kapoor-portfolio.netlify.app/", description: "This roject has been done to show case my skills as a developer to the audience." },
+    { url: youTubeIcon, title: "YouTube Clone", link: "https://stupendous-haupia-936c4c.netlify.app/", description: "This project has been done to have features similar to YouTube where we can have streamless video streaming." },
     { url: fitnessIcon, title: "Fitness App", link: "https://ashutoshfitnessapp.netlify.app", description: "A fitness web-app personalized for user to find the perfect exercises for them and suggest similar YouTube videos." },
   ];
 
