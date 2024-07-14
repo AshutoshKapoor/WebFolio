@@ -50,7 +50,7 @@ const Skills = () => {
         {
           name: "Web Developer Intern",
           company: "LiVert",
-          description: "Tech: ReactJS, HTML, CSS",
+          // description: "Tech: ReactJS, HTML, CSS",
         },
       ],
     },
@@ -60,7 +60,7 @@ const Skills = () => {
         {
           name: "Member of Technical Staff",
           company: "Roost AI",
-          description: "Tech: ReactJS, HTML, CSS, JavaScript",
+          // description: "Tech: ReactJS, HTML, CSS, JavaScript",
         },
       ],
     },
@@ -70,10 +70,20 @@ const Skills = () => {
         {
           name: "Member of Technical Staff",
           company: "Roost AI",
-          description: "Tech: ReactJS, HTML, CSS, JavaScript, TypeScript, NestJs",
+          // description: "Tech: ReactJS, HTML, CSS, JavaScript, TypeScript, NestJs",
         },
       ],
     },
+    {
+      year: "2024",
+      works: [
+        {
+          name: "SDE 1",
+          company: "Metadome.ai",
+          // description: "Tech: ReactJS, Redux Toolkit, HTML, CSS, TypeScript, NestJs",
+        },
+      ],
+    }
   ];
 
   return (

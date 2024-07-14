@@ -35,19 +35,19 @@ const Profile = () => {
           </div>
           <div className="app__profile-data">
             <p className="app__profile-data-p1">
-              <span className="head-text">1+</span>
+              <span className="head-text">2+</span>
               <span className="simple-text">
                 Year <br /> experience
               </span>
             </p>
-            <p className="app__profile-data-p2">
+            {/* <p className="app__profile-data-p2">
               <span className="head-text">5</span>
               <span className="simple-text">
                 Completed <br /> projects
               </span>
-            </p>
+            </p> */}
             <p className="app__profile-data-p3">
-              <span className="head-text">1</span>
+              <span className="head-text">3</span>
               <span className="simple-text">
                 Companies <br /> worked
               </span>
@@ -55,7 +55,7 @@ const Profile = () => {
           </div>
           <div className="app__profile-btn">
             <button>
-              <a href={resume} download="ashutosh_frontend.pdf">
+              <a href={resume} download="AshutoshKapoor.pdf">
                 Download CV <BsDownload />
               </a>
             </button>
