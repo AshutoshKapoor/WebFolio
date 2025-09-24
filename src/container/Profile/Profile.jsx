@@ -35,7 +35,7 @@ const Profile = () => {
           </div>
           <div className="app__profile-data">
             <p className="app__profile-data-p1">
-              <span className="head-text">2+</span>
+              <span className="head-text">3+</span>
               <span className="simple-text">
                 Year <br /> experience
               </span>
