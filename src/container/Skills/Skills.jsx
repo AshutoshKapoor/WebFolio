@@ -55,7 +55,7 @@ const Skills = () => {
       ],
     },
     {
-      year: "2022",
+      year: "2022 - 2023",
       works: [
         {
           name: "Member of Technical Staff",
@@ -65,20 +65,10 @@ const Skills = () => {
       ],
     },
     {
-      year: "2023",
+      year: "2024 - 2025",
       works: [
         {
-          name: "Member of Technical Staff",
-          company: "Roost AI",
-          // description: "Tech: ReactJS, HTML, CSS, JavaScript, TypeScript, NestJs",
-        },
-      ],
-    },
-    {
-      year: "2024",
-      works: [
-        {
-          name: "SDE 1",
+          name: "SDE 2",
           company: "Metadome.ai",
           // description: "Tech: ReactJS, Redux Toolkit, HTML, CSS, TypeScript, NestJs",
         },
